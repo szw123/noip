@@ -21,5 +21,4 @@ readln(no,yw,sx,yy);
 end;
 end;
 
-
 end.
