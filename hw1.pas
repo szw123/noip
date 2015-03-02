@@ -14,3 +14,4 @@ my:=p1.y-p2.y;
 writeln(sqrt(sqr(mx)+sqr(my)):0:2);
 readln;
 end.
+
