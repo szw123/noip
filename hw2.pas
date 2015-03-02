@@ -23,3 +23,4 @@ s:=sqrt(l*(l-c1)*(l-c2)*(l-c3));
 writeln(s);
 readln;
 end.
+
